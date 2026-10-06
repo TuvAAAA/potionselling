@@ -2,20 +2,24 @@ SPEL
 
     Starta shopen
         intro till spelare
-        potions meny
+        shop meny
+
+    shopmeny
+        buy
+        produce
+        leave
 
     spelare
         pengar
 
-    potion meny
+    buy
         health-..-
         speed-..-
         strenght-..-
 
         kunna tillverka produkten
 
-    ingridiens shop
-        ingridienser
+    
 
 
 

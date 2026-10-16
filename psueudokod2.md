@@ -4,7 +4,7 @@ intro till dungeon
 
 monster:
     zombie
-    skumm_man
+    spöka
 
 spelare: egenskaper
     egenskaper
@@ -41,5 +41,8 @@ while true:
     if monster hp == 0:
         print att monster förlorar
         break
+
+
+erm de här liknade inte mitt spel
 
 
